@@ -2,5 +2,5 @@
 Detecting and mitigating hallucinations in t2i models
 
 ## Models used
-Kosmos 2 - for annotating images  
-Gemini 1.5 Flash - for categorizing the images into different hallucination categories
+Kosmos 2 - __for annotating images__\  
+Gemini 1.5 Flash - __for categorizing the images into different hallucination categories__
